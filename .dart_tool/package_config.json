@@ -1,0 +1,13 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "prompter_nvr",
+      "rootUri": "../",
+      "packageUri": "lib/"
+    }
+  ],
+  "generated": "2020-11-03T06:03:02.216876Z",
+  "generator": "pub",
+  "generatorVersion": "2.9.2"
+}
