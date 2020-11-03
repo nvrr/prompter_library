@@ -8,9 +8,10 @@ class Terminal {
   void clearScreen() {
     if (Platform.isWindows) {
 
-    }else {
+    } else {
 
     }
   }
   
 }
+
