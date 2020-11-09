@@ -1,15 +1,12 @@
-import 'package:prompter_nvr/src/terminal.dart';
 import 'package:prompter_nvr/src/option.dart';
+import 'package:prompter_nvr/src/prompter.dart';
 
 void main() {
-  var terminal = Terminal();
-
   var options = [
     Option('I want red', '#f00'),
     Option('I want blue', '#00f')
   ];
 
-  terminal.printOptions(options);
-  var response = terminal.collectInput();
-  print(response);
+ var prompter = Prompter();
+ prompter.ask('What color do you want', options);
 }
