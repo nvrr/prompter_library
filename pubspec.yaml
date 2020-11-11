@@ -1,3 +1,8 @@
 name: prompter_nvr
 version: 0.0.1
 description: Library to create CLI wizards
+author: Nagaraju.Venkatraju <thevenkatraju@gmail.com>
+homepage: https://www.google.com
+
+environment:
+  sdk: '<3.0.0'
