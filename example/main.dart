@@ -1,5 +1,4 @@
-import 'package:prompter_nvr/src/option.dart';
-import 'package:prompter_nvr/src/prompter.dart';
+import 'package:prompter_nvr/prompter_nvr.dart';
 
 void main() { 
   final options = [
