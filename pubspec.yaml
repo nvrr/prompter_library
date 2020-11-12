@@ -1,8 +1,7 @@
 name: prompter_nvr
-version: 0.0.1
-description: Library to create CLI wizards
-author: Nagaraju.Venkatraju <thevenkatraju@gmail.com>
-homepage: https://www.google.com
+version: 0.0.2
+description: Library to create CLI wizards. it is used to create both multiple-choice and binary questions on terminal.
+homepage: https://github.com/nvrr/prompter_library.git
 
 environment:
   sdk: '<3.0.0'
