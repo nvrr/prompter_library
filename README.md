@@ -7,7 +7,7 @@ Features:
 
 Look Terminal logs below to have better understanding experience:
 
-> Select a color:
+<pre> Select a color:
 + [0] - I want red
 + [1] - I want blue
 * Enter a choice:
@@ -22,10 +22,10 @@ showing entered choices after submitting:
 >#00f
 
 >true
-
+</pre>
 ## Getting started
 Add dependency `prompter_nvr: ^0.0.3` to your project:
-> import 'package:prompter_nvr/prompter_nvr.dart';
+<pre> import 'package:prompter_nvr/prompter_nvr.dart';</pre>
 
 #### Using prompter
 <pre>
