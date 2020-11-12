@@ -13,15 +13,15 @@ Look Terminal logs below to have better understanding experience:
 > Select a color:
 + [0] - I want red
 + [1] - I want blue
-<br>Enter a choice:
+# Enter a choice:
 >1
 
 >Do you like this lib?(y/n)
-<br> Enter a choice:
+# Enter a choice:
 >y
 
 showing entered choices after submitting:
 
 >#00f
-<br>
+
 >true
