@@ -1,12 +1,9 @@
-
-This Library was published by Venkatraju Nagaraju <thevenkatraju@gmail.com>
-
 prompter_nvr is A Command Line Interface(CLI) library that helps you make your own CLI apps.
 
 
 Features:
-  > Library to create CLI wizards.
-  > The Prompter() class can be used to create both multiple-choice and binary questions on terminal.
+  > + Library to create CLI wizards.
+  > + The Prompter() class can be used to create both multiple-choice and binary questions on terminal.
 
 Look Terminal logs below to have better understanding experience:
 
