@@ -5,7 +5,7 @@ import 'terminal.dart';
 
 class Prompter{
   askBinary(String prompt) {
-    final input = _ask(prompt, []);
+    final input = _ask('$prompt (y/n)', []);
 
     return input.contains('y');
   }

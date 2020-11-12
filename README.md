@@ -10,20 +10,18 @@ Features:
 
 Look Terminal logs below to have better understanding experience:
 
-<br> Select a color:
+> Select a color:
 + [0] - I want red
 + [1] - I want blue
->Enter a choice:
-
+<br>Enter a choice:
 >1
 
->Do you like this lib?
-
-> Enter a choice:
-
+>Do you like this lib?(y/n)
+<br> Enter a choice:
 >y
 
 showing entered choices after submitting:
 
 >#00f
+<br>
 >true
