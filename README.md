@@ -25,10 +25,10 @@ showing entered choices after submitting:
 
 ## Getting started
 Add dependency prompter_nvr: ^0.0.3 to your project:
-<import 'package:prompter_nvr/prompter_nvr.dart';>
+> import 'package:prompter_nvr/prompter_nvr.dart';
 
 #### Using prompter
-<void main() { 
+`void main() { 
   final options = [
     Option('I want red', '#f00'),
     Option('I want blue', '#00f')
@@ -42,4 +42,4 @@ Add dependency prompter_nvr: ^0.0.3 to your project:
 
  print(colorCode);
  print(answer);
-}>
+}`
