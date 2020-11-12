@@ -1,5 +1,5 @@
 
-This Library was published by Venkatraju Nagaraju
+This Library was published by Venkatraju Nagaraju <thevenkatraju@gmail.com>
 
 prompter_nvr is A Command Line Interface(CLI) library that helps you make your own CLI apps.
 
@@ -10,15 +10,15 @@ Features:
 
 Look Terminal logs below to have better understanding experience:
 
->> Select a clor:
-[0] - I want red
-[1] - I want blue
-Enter a choice:
+>Select a clor:
+>[0] - I want red
+>[1] - I want blue
+>Enter a choice:
 
 >1
 
->> Do you like this lib?
-Enter a choice:
+>Do you like this lib?
+>Enter a choice:
 
 >y
 
