@@ -11,14 +11,14 @@ Features:
 Look Terminal logs below to have better understanding experience:
 
 >Select a clor:
-# [0] - I want red
-# [1] - I want blue
++ [0] - I want red
+- [1] - I want blue
 >Enter a choice:
 
 >1
 
 >Do you like this lib?
->Enter a choice:
+ Enter a choice:
 
 >y
 
