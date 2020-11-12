@@ -10,9 +10,9 @@ Features:
 
 Look Terminal logs below to have better understanding experience:
 
->Select a clor:
+>Select a color:
 + [0] - I want red
-- [1] - I want blue
++ [1] - I want blue
 >Enter a choice:
 
 >1

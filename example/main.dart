@@ -8,7 +8,7 @@ void main() {
 
  final prompter = Prompter();
 
- String colorCode = prompter.askMultiple('Select a clor:', options);
+ String colorCode = prompter.askMultiple('Select a color:', options);
 
  bool answer = prompter.askBinary('Do you like this lib?');
 
